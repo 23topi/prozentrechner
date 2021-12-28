@@ -1,7 +1,4 @@
 
-
-
-
 def Eingabefunktion():
     print("1.G = Grundwert")
     print("2.W = Prozentwert")
